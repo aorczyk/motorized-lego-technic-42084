@@ -1,5 +1,4 @@
 let latestCommands: { [key: string]: number } = {}
-let mode = 1;
 
 basic.clearScreen()
 
